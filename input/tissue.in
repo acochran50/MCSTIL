@@ -1,0 +1,27 @@
+TISSUE LAYERS [ name, num, thickness (cm), u_a, u_s, n, g ]
+
+3
+
+air
+1
+5.0
+0.0
+0.0
+1.0
+0.0
+
+slab
+2
+0.5
+10
+90
+1.0
+0.75
+
+air
+3
+5.0
+0.0
+0.0
+1.0
+0.0

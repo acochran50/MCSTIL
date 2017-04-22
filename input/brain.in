@@ -1,0 +1,27 @@
+TISSUE LAYERS [ name, num, thickness (cm), u_a, u_s, n, g ]
+
+3
+
+air
+1
+5.0
+0.0
+0.0
+1.0
+0.0
+
+brain
+2
+0.7
+0.0
+9.62
+1.33
+0.91
+
+air
+3
+5.0
+0.0
+0.0
+1.0
+0.0
